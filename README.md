@@ -1,8 +1,8 @@
 # Eksplorasi GUI Java Swing: ThreeEventListeners
 
-**Nama:** (Jihan Rahmadani)
-**NIM:** (F1D02510060)
-**Kelas:** (B)
+**Nama:** Jihan Rahmadani
+**NIM:** F1D02510060
+**Kelas:** B
 
 ## Deskripsi
 
